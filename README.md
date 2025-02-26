@@ -1,4 +1,4 @@
-#Consumer Behavior and Shopping Habits Analysis
+# Consumer Behavior and Shopping Habits Analysis
 
 This project analyzes the Consumer Behavior and Shopping Habits Dataset to gain insights into customer demographics, purchasing behaviors, and product preferences. The goal is to help businesses optimize their marketing and sales strategies by understanding how demographic factors, purchase history, and shopping preferences influence customer behavior.
 
